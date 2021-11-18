@@ -85,7 +85,9 @@ cargo run
 ```
 ### RESULT ###
 ```
+Inside CommandProcessor
 AddPersonCommand: "Daniele"
+Inside QueryProcessor:
 GetPersonQueryRequest: "new_id"
-DeletePersonCommand: "new_id"
+Inside CommandProcessor
 ```
